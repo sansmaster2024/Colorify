@@ -1676,7 +1676,7 @@
                 {
                     opcode: 'disableAutoPenScreenFilterApplying',
                     blockType: Scratch.BlockType.COMMAND,
-                    text: 'Disable Auto Pen Screen Filter Applying',
+                    text: 'Disable Auto Pen Screen Updating',
                 },
                 {
                     opcode: 'updatePenScreenManually',
